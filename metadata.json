@@ -1,0 +1,6 @@
+{
+  "name": "NYAYAOS - Corporate Technology Portfolio",
+  "description": "Premium 6-slide corporate portfolio presentation for NYAYAOS: One Intelligence. Infinite Possibilities. Featuring enterprise services, 13 web solutions, and 3 mobile applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
